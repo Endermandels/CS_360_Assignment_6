@@ -10,7 +10,7 @@
 
 To compile:
 
-	gcc -o assignment6 assignment6.c -lm -lpthread
+	$ gcc -o assignment6 assignment6.c -lm -lpthread
 
 To run:
 
